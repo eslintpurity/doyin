@@ -1,15 +1,15 @@
-baseURL = "https://miguelsimoni.github.io/hugo-initio-site/"
+baseURL = "https://doyinelugbadebo-ea01e.firebaseapp.com/"
 languageCode = "en-us"
-title = "Initio - Free, multipurpose html5 template by GetTemplate"
+title = "Doyin Elugbadebo - A Freelance Senior Software Developer and Deep Learning Practitioner from Lagos, Nigeria."
 theme = "hugo-initio"
-publishDir = "docs"
+publishDir = "public"
 
 [params]
     name = "Doyin ELUGBADEBO"
     description = "Software Developer | Deep Learning Practitioner | Technical Writer | Author"
     email = "doyinelugbadebo@gmail.com"
     phone = "+2348084185154"
-    address = "234 Hidden Pond Road, Ashland City, TN 37015"
+    address = "345 Allen Avenue Road Ikeja, Lagos, Nigeria. LG 37015"
     year = 2019
     avatar = "images/cy-cropped.jpg"
     background = ""
