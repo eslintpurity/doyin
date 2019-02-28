@@ -1,12 +1,17 @@
 +++
 date = "2013-06-17T12:00:00-00:00"
-title = "Vivamus Lacus Mauris"
+title = "The Death I wish I'd Lived"
 
 +++
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Impedit, rerum voluptates veniam. Esse, nihil, ea, eaque, quos cum id tempore voluptate nisi nemo debitis impedit officiis culpa repellat voluptatum in aperiam error quo minima ratione ex pariatur maxime eligendi dolore nesciunt molestiae enim alias atque commodi delectus perferendis. Blanditiis, iste placeat nostrum in! Eligendi, omnis, unde, quos ullam nesciunt molestias quis a saepe nisi distinctio molestiae voluptate obcaecati officiis consequuntur similique aspernatur rerum sequi placeat iure quaerat itaque libero officia recusandae ad corrupti aperiam cum beatae. Adipisci ad natus deleniti.
+It was the 23rd day of the Month Juxaphon, in the high city of Lagosvbn, located far east of kuproton rock and north of Luxemburg in the country of Demsimma. It is the abode of the planet  geghen, the youngest member of the Dem sum family, belonging to Oxghmen galaxy. Oxghmen galaxy is 95km away from the Earth Milky way Galaxy. The horsesplanet is a beautiful and glamorous planet with sunlight infused right within the core of the plane. There was high and extreme sonorous noise, chats and drums of light filled the whole country. Girls volumnously daancing, horses riding and.......It was my coronation day. I was to be crowned the King of Mamila (The Northern Region)...the 1st of its kind, the holder of the supreme truth and commander in chief of the armed forces of the great planet. 
 
-Dolores harum alias consequatur blanditiis. Inventore, quod, ullam veritatis eum ratione neque quis fugit quae optio facilis in ipsa! Maiores, quia, possimus repellendus iusto nostrum nisi doloribus qui excepturi ducimus veritatis molestiae autem consequatur quae ex nihil id sapiente minima adipisci. Quibusdam, aperiam, sapiente, nobis, possimus vero laudantium delectus esse minus quo nihil perspiciatis accusamus. Cupiditate sapiente illum accusantium animi pariatur sed minima nam.
+Let me quickly tell you about the reign, there all planets from certain region combine to form a single king that overseas the affairs of that region. This time, my region had 1.6 billion planets. We conquered Intergalaxy travelling millions of years ago....and very close to bridging the gap to a new parallel universe. 
 
-Harum, consectetur, quia nisi fugiat quasi ea amet cum inventore aperiam optio qui perspiciatis debitis molestiae laborum minima doloremque ullam eum nesciunt repellendus dolor dicta cumque deserunt. Quaerat, saepe, maxime, quod, dolor nisi assumenda aut est quos optio animi aliquid quidem voluptates adipisci hic recusandae dicta quis eligendi illo ducimus asperiores reiciendis odit distinctio natus? In, reprehenderit, facere, ipsam, vel architecto autem temporibus a quidem voluptatum at nesciunt quas facilis. Soluta, excepturi, nihil, illum dicta hic ratione tenetur voluptate dolorum a tempore dignissimos reprehenderit voluptas expedita officiis enim minus adipisci?
+Next, I was joyfully, singing and merrying with great merriment, my entourage following my orders, singing and chatting, I wanna live forever young, do you really wanna live forever, forever......I had left my system on while songs was playing...J-Zay, forever young. My subciousness mind had been following songs from my system while I dosed off. I woke up lying flat in my bed, confsed and gladdened at the sam time. All I uttered was why the fuck did I wake up?
+
+Been training had since then to enter such abode once more. This time around, I'll make the death permanent.
+
+
+
 
